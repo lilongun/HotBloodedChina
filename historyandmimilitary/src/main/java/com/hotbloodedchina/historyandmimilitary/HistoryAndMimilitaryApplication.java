@@ -3,6 +3,7 @@ package com.hotbloodedchina.historyandmimilitary;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Created by lilongyun on 2018/4/22.
